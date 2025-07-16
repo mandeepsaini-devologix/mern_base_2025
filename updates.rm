@@ -1,0 +1,5 @@
+Version 1.0.0
+# npm Init
+# express, mysql2, ejs, express-ejs-layouts installed
+# Basic setup for a Node.js application with express
+# Set View Engine to EJS
